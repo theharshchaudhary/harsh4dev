@@ -45,10 +45,10 @@
 - 🔹 **[Personal Portfolio](https://harshchaudhary.com.np/)** (Laravel)  
   ➤ Responsive & cleanly structured portfolio showcasing projects & skills
 
-- 🔹 **[Lan Chat Room With File Transfer](https://github.com/harsh4dev/LanChatroomNP)** (C++ with GUI)  
+- 🔹 **[Lan Chat Room With File Transfer](https://github.com/theharshchaudhary/LanChatroomNP)** (C++ with GUI)  
   ➤ A real-time multi-user chat and file sharing system over a local area network (LAN)
 
-- 🔹 **[KinBech - eCommerce Website](https://github.com/harsh4dev/KinBech-eCommerce)** (PHP & MySQL)  
+- 🔹 **[KinBech - eCommerce Website](https://github.com/theharshchaudhary/KinBech-eCommerce)** (PHP & MySQL)  
   ➤ Built as academic project, an responsive and cleanly structuerd e-commerce website.
 
 - 🔹 **[SwiftHarryDM - Universal Download Manager](https://swiftharrydm.harshchaudhary.com.np)** (Python & Node.js)  
@@ -78,18 +78,18 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh4dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harsh4dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=theharshchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=theharshchaudhary&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-[![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh4dev&theme=react-dark)](https://github.com/harsh4dev/github-readme-activity-graph)
+[![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theharshchaudhary&theme=react-dark)](https://github.com/theharshchaudhary/github-readme-activity-graph)
 
 ---
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=harsh4dev&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=theharshchaudhary&color=blueviolet&style=flat)
 
 ---
 
